@@ -7834,9 +7834,9 @@ function su() {
       light: {
         dark: !1,
         colors: {
-          background: "#FFFFFF",
-          surface: "#FFFFFF",
-          "surface-bright": "#FFFFFF",
+          background: "#ddf1ff",
+          surface: "#ddf1ff",
+          "surface-bright": "#ddf1ff",
           "surface-light": "#EEEEEE",
           "surface-variant": "#424242",
           "on-surface-variant": "#EEEEEE",
