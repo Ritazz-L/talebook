@@ -7,7 +7,7 @@ services:
     restart: always
     image: talebook/talebook
     volumes:
-      - /tmp/demo:/data
+      - G:\obsidian\metadata\talebook\docker\book
       - G:\obsidian\metadata\talebook\app\public\logo:/data/books/logo/  # 新增 Logo 挂载
     ports:
       - "8080:80"
